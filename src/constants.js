@@ -1,1 +1,1 @@
-export const DB_NAME= 'backend-ignite';
+export const DB_NAME = 'backend-ignite';
